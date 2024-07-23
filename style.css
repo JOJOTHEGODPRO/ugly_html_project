@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.introduction h1 {
+    color: rgb(240, 205, 58);
+    background-color: rgb(81, 84, 168);
+
+}
+
+.introduction h2 {
+    font-size: 15px;
+
+}
+
+#bulbasaur_container   {
+    background-color: rgb(93, 212, 129);
+    border: 2px solid rgb(249, 249, 149);;
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 1cap;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+
+}
+
+.introduction h2 {
+    text-align: left;
+}
+
+.list {
+    text-align: left;
+}
+
+#charmander_container {
+    background-color: rgb(241, 188, 113);
+    border: 2px solid rgb(249, 249, 149);
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 1cap;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+
+#squirtle_container {
+    background-color: rgb(138, 198, 223);
+    border: 2px solid rgb(249, 249, 149);
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 1cap;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.introduction img {
+    border: 3px solid #464eae;
+    margin: 5px;
+    padding: 5px;
+}
+
+#bulbasaur_container  {
+    text-align: left;
+}
+
+#charmander_container  {
+    text-align: left;
+}
+
+#squirtle_container  {
+    text-align: left;
+}
